@@ -1,0 +1,51 @@
+{{ partial "header.html" . }}
+{{/* partial "debug.html" . */}}
+{{ partial "jumbotron.html" . }}
+
+<div class="container-fluid no-gutter">
+  <div id="top-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/top-banner.jpg')">
+    <div class="all-center"><span class="banner-section-text">{{ .Site.Params.homepage.topBannerText }}</span></div>
+  </div>
+</div>
+
+<section class="text-center">
+  <div class="container banner-section text-banner">
+      <p class="lead">{{ .Site.Params.homepage.leadText }}</p>
+
+      <container>
+        <div class="row align-items-center">
+          <div class="col-lg-4">
+            <h3>{{ .Site.Params.homepage.firstSectionHeader }}</h3>
+          </div>
+          <div class="col-lg-8">
+            <p>{{ with .Site.GetPage "page" "homepage/_first_section_text" }}{{ .Content | markdownify }}{{ end }}</p>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-lg-4">
+            <h3>{{ .Site.Params.homepage.secondSectionHeader }}</h3>
+          </div>
+          <div class="col-lg-8">
+            <p>{{ with .Site.GetPage "page" "homepage/_second_section_text" }}{{ .Content | markdownify }}{{ end }}</p>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-lg-4">
+            <h3>{{ .Site.Params.homepage.thirdSectionHeader }}</h3>
+          </div>
+          <div class="col-lg-8">
+            <p>{{ with .Site.GetPage "page" "homepage/_third_section_text" }}{{ .Content | markdownify }}{{ end }}</p>
+          </div>
+        </div>
+      </container>
+  </div>
+
+<div class="container-fluid no-gutter">
+  <div id="ea-network-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/bottom-banner.jpg')">
+    <div class="all-center"><span class="banner-section-text">{{ .Site.Params.homepage.bottomBannerText }}</span></div>
+  </div>
+</div>
+</section>
+
+
+{{ partial "footer.html" . }}
