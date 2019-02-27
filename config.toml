@@ -40,7 +40,7 @@ DefaultContentLanguage = "de"
   # content folder so the copy corresponds with the header.
   # home = "Startseite"
   faq = "FAQ (Englisch)"
-  effectiveAltruism = "Mehr erfahren"
+  effectiveAltruism = "Informieren "
   aboutEA = "Über EA"
   readingMaterial = "Lesematerial"
   # keyTerms = "Schlüsselwörter"
