@@ -18,7 +18,7 @@ DefaultContentLanguage = "de"
 
   [Languages]
   [Languages.de]
-  title = "EA Darmstadt"
+  title = "Effektiver Altruismus Darmstadt"
   weight = 1
   languageCode = "de"
 
@@ -39,12 +39,12 @@ DefaultContentLanguage = "de"
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
   home = "Startseite"
-  faq = "FAQ"
+  faq = "FAQ (Englisch)"
   effectiveAltruism = "Effektiver Altruismus"
   aboutEA = "Über EA"
   readingMaterial = "Lesematerial"
-  keyTerms = "Schlüsselwörter"
-  organizations = "Organisationen"
+  # keyTerms = "Schlüsselwörter"
+  organizations = "Organisationen (Englisch)"
   contact= "Kontakt"
 
   [Languages.de.pages]
