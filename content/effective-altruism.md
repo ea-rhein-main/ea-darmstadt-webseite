@@ -4,15 +4,11 @@ date: 2017-12-28T15:58:29-08:00
 draft: false
 type: "effective-altruism"
 ---
-Der Effektive Altruismus ist eine Philosophie, die Kopf und Herz verbindet.
-
-Wir nutzen wissenschaftliche Erkenntnisse und rationale Argumente, um herauszufinden, wie wir möglichst viel bewirken können.
-
-In den letzten Jahren hat sich die Idee des Effektiven Altruismus zu einer globalen Bewegung entwickelt. Auch in Deutschland, der Schweiz und Österreich engagieren sich zahlreiche Leute.
+Der Effektive Altruismus ist eine Philosophie, die Kopf und Herz verbindet. Wir nutzen wissenschaftliche Erkenntnisse und rationale Argumente, um herauszufinden, wie wir möglichst viel bewirken können. In den letzten Jahren hat sich die Idee des Effektiven Altruismus zu einer globalen Bewegung entwickelt. Auch in Deutschland, der Schweiz und Österreich engagieren sich zahlreiche Leute.
 
 
 
-#### Einführung in die Philosophie des Effektiven Altruismus
+### Einführung in die Philosophie des Effektiven Altruismus
 
 Nach wie vor sterben jeden Tag über 16 000 Kinder an den Folgen der globalen Armut.
 
