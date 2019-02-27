@@ -4,7 +4,20 @@ date: 2017-12-28T15:58:29-08:00
 draft: false
 type: "effective-altruism"
 ---
+Der Effektive Altruismus ist eine Philosophie, die Kopf und Herz verbindet.
 
-Effective altruism is a philosophy and social movement that applies evidence and reason to determine the most effective ways to improve the world. Effective altruists aim to consider all causes and actions, and then act in the way that brings about the greatest positive impact. It is this broad evidence-based approach that distinguishes effective altruism from traditional altruism or charity. While a substantial proportion of effective altruists have focused on the nonprofit sector, the philosophy of effective altruism applies much more broadly, e.g., to prioritizing the scientific projects, companies, and policy initiatives which can be estimated to save and improve the most lives.
+Wir nutzen wissenschaftliche Erkenntnisse und rationale Argumente, um herauszufinden, wie wir möglichst viel bewirken können.
 
-We are excited to be a part of this movement and hope you’ll join us.
+In den letzten Jahren hat sich die Idee des Effektiven Altruismus zu einer globalen Bewegung entwickelt. Auch in Deutschland, der Schweiz und Österreich engagieren sich zahlreiche Leute.
+
+#### Einführung in die Philosophie des Effektiven Altruismus
+
+Nach wie vor sterben jeden Tag über 16 000 Kinder an den Folgen der globalen Armut.
+
+Versuchen wir einmal, uns dieses Leid wirklich vor Augen zu führen. Stellen wir uns vor, die 16 000 Kinder sterben in unserer eigenen Stadt. Auf der Fahrt zur Arbeit oder dem Heimweg von der Uni würden wir täglich mit dem unvorstellbaren Leid konfrontiert werden. Wie reagieren wir? Und würden wir anders reagieren, wenn sich die Katastrophe in der Nachbarstadt ereignen würde? Im Nachbarland? Auf dem nächstgelegenen Kontinent? Ist es nicht widersprüchlich und irrational, anderen nur dann zu helfen, wenn sich ihr Leid in unserer Nähe abspielt?
+
+   _Leid wird nicht dadurch weniger schlimm, dass man es geographisch verschiebt._
+
+Hier nimmt der Effektive Altruismus (EA) seinen Ausgangspunkt. Er ist eine Philosophie und soziale Bewegung, die es für ethisch zentral hält, anderen so gut wie möglich zu helfen. Dabei ist entscheidend, wissenschaftlich und rational vorzugehen, um die besten Strategien ausfindig zu machen. Andernfalls helfen wir weniger Individuen, als möglich gewesen wäre, denn unsere Ressourcen – Zeit und Geld – sind begrenzt.
+
+Würden sich all die täglichen ethischen Katastrophen vor unseren Augen zutragen, würden wir nicht zögern, 10 % unseres Einkommens an nachhaltig-effektive Hilfsmaßnahmen zu spenden und uns zu überlegen, wie wir den sozialen Impact in unserem Beruf maximieren können. Was viele dabei vergessen: Glückspsychologische Studien legen nahe, dass wir durch das Helfen auch selbst glücklicher werden können. Sinnvoll umgesetzt entspricht der Effektive Altruismus also einer Win-win-Situation!
