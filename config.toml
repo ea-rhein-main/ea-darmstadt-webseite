@@ -59,7 +59,7 @@ DefaultContentLanguage = "de"
   firstSectionHeader = "Was ist eigentlich Effektiver Altruismus?"
   secondSectionHeader = "Was ist unser Ziel als Gruppe?"
   thirdSectionHeader = "Treffensstruktur"
-  bottomBannerText = "A proud member of the effective altruism network"
+  bottomBannerText = "Wie kann ich beitragen?"
 
   [Languages.de.contactform]
   ## -- CONTACT FORM -- ##
