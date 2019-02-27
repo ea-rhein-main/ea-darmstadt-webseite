@@ -55,6 +55,7 @@ DefaultContentLanguage = "de"
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Über uns"
+  bottomBannerText = "Wie kann ich beitragen?"
 
   [Languages.de.contactform]
   ## -- CONTACT FORM -- ##
