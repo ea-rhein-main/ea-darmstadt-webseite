@@ -2,7 +2,9 @@
 {{/* partial "debug.html" . */}}
 {{ partial "jumbotron.html" . }}
 
-<div id="homepage-news" class="text-center">{{ with .Site.GetPage "page" "homepage/_news" }}{{ .Content | markdownify }}{{ end }}</div>
+<div class="container">
+  <div id="homepage-news" class="text-center">{{ with .Site.GetPage "page" "homepage/_news" }}{{ .Content | markdownify }}{{ end }}</div>
+</div>
 
 <div class="container-fluid no-gutter">
   <div id="top-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/top-banner.jpg')">
@@ -10,7 +12,9 @@
   </div>
 </div>
 
-<div id="homepage-about" class="text-left">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</div>
+<div class="container">
+  <div id="homepage-about" class="text-left">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</div>
+</div>
 
 <div class="container-fluid no-gutter">
   <div id="ea-network-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/bottom-banner.jpg')">
@@ -18,8 +22,9 @@
   </div>
 </div>
 
-<div id="homepage-contribute" class="text-center">{{ with .Site.GetPage "page" "homepage/_contribute" }}{{ .Content | markdownify }}{{ end }}</div>
-
+<div class="container">
+  <div id="homepage-contribute" class="text-center">{{ with .Site.GetPage "page" "homepage/_contribute" }}{{ .Content | markdownify }}{{ end }}</div>
+</div>
 
 
 {{ partial "footer.html" . }}
