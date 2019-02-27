@@ -2,21 +2,24 @@
 {{/* partial "debug.html" . */}}
 {{ partial "jumbotron.html" . }}
 
+<div id="homepage-news" class="text-center">{{ with .Site.GetPage "page" "homepage/_news" }}{{ .Content | markdownify }}{{ end }}</div>
+
 <div class="container-fluid no-gutter">
   <div id="top-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/top-banner.jpg')">
     <div class="all-center"><span class="banner-section-text">{{ .Site.Params.homepage.topBannerText }}</span></div>
   </div>
 </div>
 
-<section class="text-left">
-  <div id="homepage-about" class="container">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</div>
+<div id="homepage-about" class="text-left">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</div>
 
-  <div class="container-fluid no-gutter">
-    <div id="ea-network-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/bottom-banner.jpg')">
-      <div class="all-center"><span class="banner-section-text">{{ .Site.Params.homepage.bottomBannerText }}</span></div>
-    </div>
+<div class="container-fluid no-gutter">
+  <div id="ea-network-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/bottom-banner.jpg')">
+    <div class="all-center"><span class="banner-section-text">{{ .Site.Params.homepage.bottomBannerText }}</span></div>
   </div>
-</section>
+</div>
+
+<div id="homepage-contribute" class="text-center">{{ with .Site.GetPage "page" "homepage/_contribute" }}{{ .Content | markdownify }}{{ end }}</div>
+
 
 
 {{ partial "footer.html" . }}
