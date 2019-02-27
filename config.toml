@@ -38,7 +38,7 @@ DefaultContentLanguage = "de"
   # You probably don't need/want to change these,
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
-  home = "Startseite"
+  # home = "Startseite"
   faq = "FAQ (Englisch)"
   effectiveAltruism = "Effektiver Altruismus"
   aboutEA = "Über EA"
