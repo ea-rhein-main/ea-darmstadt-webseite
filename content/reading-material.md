@@ -4,33 +4,17 @@ date: 2017-12-28T15:58:15-08:00
 draft: false
 ---
 
-## Reading Material
+## Lesematerial
 <br>
 
-A lot of material has been developed on how we can go about doing a lot of good. Here is some of the best.
+Es gibt viele Materialien (Artikel, Videos, Bücher) zum Thema Effektiver Altruismus, wir haben hier für Dich eine kleine Auswahl zusammengestellt: 
 
+Ein guter Startpunkt sind die **[Einführungsartikel](https://effektiveraltruismus.de/lesetipps-videos/#Deutsche_Einfuehrungsartikel)** auf der Website der Stiftung für Effektiven Altruismus.
 
-If you like TED talks, watch Peter Singer’s **[The Why and How of Effective Altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)** or check out **[any of the other TED talks and presentations on effective altruism](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations)**. The Life You Can Save (Singer’s first book on Effective Altruism) **[in 3 minutes](https://www.youtube.com/watch?v=onsIdBanynY)** is also a great watch.
+Falls Du TED talks magst, haben wir gleich mehrere Empfehlungen: **["Wie können wir Herz und Verstand verbinden?"](https://youtu.be/di3nHTAS7JY)** von Jan Dirk Capelle (auf deutsch), **[The Why and How of Effective Altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)** und **[The Life You Can Save](https://www.youtube.com/watch?v=onsIdBanynY)** von Peter Singer (beides auf englisch), oder Du schaust **[direkt in der Wikiliste mit TED talks zu EA](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations)** nach Themen die Dich interessieren. 
 
+Einen Einstieg in das EA-Forum bietet **[Einführungsliste im EA-Forum](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/)**. Dank gibt es Ryan Carey gibt es diese Liste auch in detailliertem **[pdf format](http://www.careyryan.com/files/EA_Handbook.pdf)**.
 
-A great place to start is this **[introductory list on the EA forum](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/)**. Ryan Carey has also put this in a more detailed **[pdf format](http://www.careyryan.com/files/EA_Handbook.pdf)**.
+Im Durchschnitt verbringen wir 80 000 Stunden unseres Lebens auf der Arbeit: Die Organisation "80 0000 Hours" bietet einen **[Guide dazu, mit seinem Beruf möglichst viel Gutes zu tun](https://80000hours.org/career-guide/)**.
 
-
-Ben Kuhn compiles a great set of articles **[here](http://www.benkuhn.net/ea-reading)**.
-
-A good primer on GiveWell, global poverty reduction (and charities in general): **[Giving 101: the basics](http://www.givewell.org/giving101)**
-
-
-Peter McIntyre write a post summarising charity selection heuristics, and some cause areas: **[Effective charities 101](http://mcntyr.com/effective-charities-101/)**
-
-
-How should you spend your 80 000 hours of your working life? 80 000 Hours (where did they get the name from?) has put together an **[incredible guide on careers](https://80000hours.org/career-guide/)**.
-
-
-Singer’s books: **[The Life You Can Save](http://www.amazon.com/The-Life-You-Can-Save/dp/0812981561)**, and **[The Most Good You Can Do](http://www.amazon.com/The-Most-Good-You-Can/dp/0300180276)** are good introductions, and have changed many people’s lives.
-
-
-Will MacAskill’s book, **[Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105/)**, introducing effective altruism was published in August 2015.
-
-
-Additionally, many individual writers and other sites have interesting material on effective altruism – you can find some **[great blogs](https://eahub.org/links#blogs)** on the EA Hub.
+Will MacAskills Buch, **[Gutes Besser Tun – Wie wir mit effektivem Altruismus die Welt verändern können](https://www.amazon.de/Gutes-besser-tun-effektivem-Altruismus/dp/3550081405/?pldnSite=1)**, erklärt viele wichtige Konzepte des Effektiven Altruismus.
