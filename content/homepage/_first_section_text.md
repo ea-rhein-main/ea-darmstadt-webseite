@@ -1,1 +1,1 @@
-Wir wollen dir helfen, Vernunft und wissenschaftliche Denkweise zu nutzen, um die Welt zu verbessern
+EA beschäftigt sich mit der Frage, wie wir mit unseren begrenzten Ressourcen möglichst viel Gutes erreichen können. 
