@@ -74,10 +74,10 @@ DefaultContentLanguage = "de"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  # firstButtonText = "First Button Text"
+  # firstButtonLink = ""
+  # secondButtonText = "Second Button Text"
+  # secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -86,5 +86,5 @@ DefaultContentLanguage = "de"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  # twitterUrl = ""
+  # meetupUrl = ""
