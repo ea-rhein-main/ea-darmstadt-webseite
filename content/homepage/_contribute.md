@@ -1,3 +1,3 @@
- * Informier dich! [hier](https://ea-rhein-main.github.io/ea-darmstadt-webseite/reading-material/)
- * Spende an effektive Organisationen: [hier](https://www.givewell.org/)
- * Komm bei EA Darmstadt vorbei : [hier](Termine)
+ * [Informier dich.](https://ea-rhein-main.github.io/ea-darmstadt-webseite/reading-material/)
+ * [Spende](https://www.givewell.org/) an effektive Organisationen.
+ * [Komm bei EA Darmstadt vorbei!](Termine)
