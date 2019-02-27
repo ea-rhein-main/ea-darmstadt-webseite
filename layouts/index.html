@@ -9,7 +9,7 @@
 </div>
 
 <section class="text-center">
-  <p id="" class="container">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</p>
+  <div id="homepage-about" class="container">{{ with .Site.GetPage "page" "homepage/_about" }}{{ .Content | markdownify }}{{ end }}</div>
 
   <div class="container-fluid no-gutter">
     <div id="ea-network-banner" class="row banner-section" style="background-image:url('{{ .Site.BaseURL}}/img/bottom-banner.jpg')">
