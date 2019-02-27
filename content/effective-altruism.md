@@ -10,6 +10,8 @@ Wir nutzen wissenschaftliche Erkenntnisse und rationale Argumente, um herauszufi
 
 In den letzten Jahren hat sich die Idee des Effektiven Altruismus zu einer globalen Bewegung entwickelt. Auch in Deutschland, der Schweiz und Österreich engagieren sich zahlreiche Leute.
 
+
+
 #### Einführung in die Philosophie des Effektiven Altruismus
 
 Nach wie vor sterben jeden Tag über 16 000 Kinder an den Folgen der globalen Armut.
