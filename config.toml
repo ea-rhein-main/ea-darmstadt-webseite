@@ -55,11 +55,6 @@ DefaultContentLanguage = "de"
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Über uns"
-  leadText = "Wir sind eine Gruppe von Menschen die dir dabei helfen wollen die Frage zu beantworten: Wie kannst du die Welt besser machen?"
-  firstSectionHeader = "Was ist eigentlich Effektiver Altruismus?"
-  secondSectionHeader = "Was ist unser Ziel als Gruppe?"
-  thirdSectionHeader = "Treffensstruktur"
-  bottomBannerText = "Wie kann ich beitragen?"
 
   [Languages.de.contactform]
   ## -- CONTACT FORM -- ##
