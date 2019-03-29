@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://ea-rhein-main.github.io/ea-darmstadt-webseite/"
+baseURL = "https://ea-darmstadt.de/"
 theme = "local-ea-template"
 canonifyURLs = true
 
