@@ -5,3 +5,5 @@
 * [GiveWell](https://www.givewell.org/)
 * [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
 * [Rethink Charity](https://rtcharity.org/)
+
+[Impressum](https://ea-darmstadt.de/impressum)
