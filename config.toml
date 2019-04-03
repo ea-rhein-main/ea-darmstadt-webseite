@@ -14,72 +14,72 @@ DefaultContentLanguage = "de"
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
 # at https://github.com/rtcharity/local-ea-template.
-  [params]
+[params]
 
-  [Languages]
-  [Languages.de]
-  title = "EA Darmstadt"
-  weight = 1
-  languageCode = "de"
+[Languages]
+[Languages.de]
+title = "EA Darmstadt"
+weight = 1
+languageCode = "de"
 
-  [Languages.de.general]
-  ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effektiver Altruismus Darmstadt"
+[Languages.de.general]
+## -- GENERAL SITE PARAMETERS -- ##
+fullTitle = "Effektiver Altruismus Darmstadt"
 
-  [Languages.de.groupinfo]
-  ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effektiver Altruismus Darmstadt e.V."
-  orgLocations = "Darmstadt"
-  contactEmail = "info@ea-darmstadt.de"
+[Languages.de.groupinfo]
+## -- EA GROUP INFO -- ##
+legalOrgName = "Effektiver Altruismus Darmstadt e.V."
+orgLocations = "Darmstadt"
+contactEmail = "info@ea-darmstadt.de"
 
-  [Languages.de.navbar]
-  ## -- NAVIGATION BAR HEADERS -- ##
-  # You probably don't need/want to change these,
-  # but if you do you'll also want to change the relevant .md file under the
-  # content folder so the copy corresponds with the header.
-  # home = "Startseite"
-  faq = "FAQ (Englisch)"
-  effectiveAltruism = "Informieren "
-  aboutEA = "Über EA"
-  readingMaterial = "Lesematerial"
-  # keyTerms = "Schlüsselwörter"
-  organizations = "Organisationen (Englisch)"
-  contact= "Kontakt"
+[Languages.de.navbar]
+## -- NAVIGATION BAR HEADERS -- ##
+# You probably don't need/want to change these,
+# but if you do you'll also want to change the relevant .md file under the
+# content folder so the copy corresponds with the header.
+# home = "Startseite"
+faq = "FAQ (Englisch)"
+effectiveAltruism = "Informieren "
+aboutEA = "Über EA"
+readingMaterial = "Lesematerial"
+# keyTerms = "Schlüsselwörter"
+organizations = "Organisationen (Englisch)"
+contact= "Kontakt"
 
-  [Languages.de.pages]
-  ## -- PAGE HEADERS -- ##
-  contactPageHeader = "Kontakt"
-  aboutEAPageHeader = "Was ist Effektiver Altruismus?"
+[Languages.de.pages]
+## -- PAGE HEADERS -- ##
+contactPageHeader = "Kontakt"
+aboutEAPageHeader = "Was ist Effektiver Altruismus?"
 
-  [Languages.de.homepage]
-   ## -- HOMEPAGE -- ##
-  topBannerText = "Über uns"
-  bottomBannerText = "Wie kann ich beitragen?"
+[Languages.de.homepage]
+ ## -- HOMEPAGE -- ##
+topBannerText = "Über uns"
+bottomBannerText = "Wie kann ich beitragen?"
 
-  [Languages.de.contactform]
-  ## -- CONTACT FORM -- ##
-  leadText = "Sag Hallo!"
-  senderName = "Dein Name (notwendig)"
-  senderEmail = "Deine E-Mailadresse (notwendig)"
-  emailSubject = "Betreff"
-  emailMessage = "Deine Nachricht"
-  send = "Senden"
+[Languages.de.contactform]
+## -- CONTACT FORM -- ##
+leadText = "Sag Hallo!"
+senderName = "Dein Name (notwendig)"
+senderEmail = "Deine E-Mailadresse (notwendig)"
+emailSubject = "Betreff"
+emailMessage = "Deine Nachricht"
+send = "Senden"
 
-  [Languages.de.jumbotron]
-  # These are the buttons right under the header that appears on the main page.
-  # You can use them to link to a mailing list or Facebook page.
-  # Make sure the links start with http:// or https://
-  # firstButtonText = "First Button Text"
-  # firstButtonLink = ""
-  # secondButtonText = "Second Button Text"
-  # secondButtonLink = ""
-  # Remove the # before the text to add the optional Meetup button
-  # meetupButtonText = "Find us on Meetup"
+[Languages.de.jumbotron]
+# These are the buttons right under the header that appears on the main page.
+# You can use them to link to a mailing list or Facebook page.
+# Make sure the links start with http:// or https://
+# firstButtonText = "First Button Text"
+# firstButtonLink = ""
+# secondButtonText = "Second Button Text"
+# secondButtonLink = ""
+# Remove the # before the text to add the optional Meetup button
+# meetupButtonText = "Find us on Meetup"
 
-  [Languages.de.urls]
-  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
-  # If your group does not have URLs for these, just add # before the line
-  # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/groups/EADarmstadt/"
-  # twitterUrl = ""
-  # meetupUrl = ""
+[Languages.de.urls]
+## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+# If your group does not have URLs for these, just add # before the line
+# to remove the link from the site
+facebookUrl = "https://www.facebook.com/groups/EADarmstadt/"
+# twitterUrl = ""
+# meetupUrl = ""
