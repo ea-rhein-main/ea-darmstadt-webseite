@@ -1,10 +1,10 @@
 Anschrift:
 
-  Markus Brechtel
-  EA Darmstadt
-  Blankenheimer Straße 26
-  D-60529 Frankfurt am Main
+Effektiver Altruism Darmstadt e.V.<br>
+HSG EA Darmstadt c/o AStA TU Darmstadt<br>
+Hochschulstraße 1<br>
+64289 Darmstadt
 
-E-Mailadresse: info@ea-darmstadt.de
+E-Mailadresse: web@ea-darmstadt.de
 
-Telefon: +49 69 17537471-8
+Telefon für rechtliche Fragen bezüglich der Webseite: +49 69 17537471-8
