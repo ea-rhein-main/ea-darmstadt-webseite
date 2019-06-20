@@ -1,3 +1,3 @@
-* [Informier dich.](https://ea-rhein-main.github.io/ea-darmstadt-webseite/reading-material/)
+* [Informier dich.](https://ea-darmstadt.de/reading-material/)
 * [Spende](https://www.givewell.org/) an effektive Organisationen.
-* [Komm zu unseren Treffen](#homepage-news)
+* [Komm zu unseren Treffen.](https://ea-darmstadt.de/contact/)

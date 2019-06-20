@@ -1,7 +1,10 @@
 
 ## Was ist eigentlich Effektiver Altruismus?
+
 EA beschäftigt sich mit der Frage, wie wir mit unseren begrenzten Ressourcen möglichst viel Gutes erreichen können.
+
 ## Was ist unser Ziel als Gruppe?
+
 Wir wollen z.B.:
 
  - mehr darüber lernen, wie man die Welt verbessert.
@@ -11,6 +14,7 @@ Wir wollen z.B.:
 Außerdem wollen wir ganz egoistisch auch noch Spaß dabei  haben ;)
 
 ## Treffensstruktur:
- * Gruppentreffen: jeden zweiten Donnerstag. Und zwar ist abwechselnd Inhalt-/Orga-Treffen  und Stammtisch. Stammtische finden meistens im Habibi oder im Café Agora statt.
- * Kleingruppen: treffen sich unregelmäßig. Bei Interesse einfach anfragen. Beispiele für Kleingruppen: 
-AI-Lesekreis, EA-Kurse, AI-Kurs, Hochschulgruppen-Akkreditierung, Leseabend, accountability partner, Webseite, ...
+
+ * Gruppentreffen: jeden zweiten Donnerstag um 19:30. Dabei treffen wir uns abwechselnd in einem Raum der Universität oder im privaten Rahmen.
+ * Kleingruppen: treffen sich individuell. Bei Interesse einfach anfragen. Beispiele für Kleingruppen: 
+     AI-Lesekreis, EA-Kurse, AI-Kurs, Leseabend, accountability partner, Webseite, ...
