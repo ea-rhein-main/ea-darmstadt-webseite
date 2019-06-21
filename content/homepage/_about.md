@@ -15,6 +15,6 @@ Außerdem wollen wir ganz egoistisch auch noch Spaß dabei  haben ;)
 
 ## Treffensstruktur:
 
- * Gruppentreffen: jeden zweiten Donnerstag um 19:30. Dabei treffen wir uns abwechselnd in einem Raum der Universität oder im privaten Rahmen.
+ * Gruppentreffen: jeden zweiten Donnerstag um 19:30. Dabei treffen wir uns abwechselnd in einem Raum der Universität und im privaten Rahmen.
  * Kleingruppen: treffen sich individuell. Bei Interesse einfach anfragen. Beispiele für Kleingruppen: 
      AI-Lesekreis, EA-Kurse, AI-Kurs, Leseabend, accountability partner, Webseite, ...
