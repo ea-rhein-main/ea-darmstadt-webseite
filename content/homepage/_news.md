@@ -1,3 +1,3 @@
 ## Nächste Termine
 
-Reguläres Treffen der Lokalgruppe: am 27.06.19 19:30, Raum wird noch bekannt gegeben
+Reguläres Treffen der Lokalgruppe: am 11.07.19 19:30, Raum wird noch bekannt gegeben (TU Darmstadt)
