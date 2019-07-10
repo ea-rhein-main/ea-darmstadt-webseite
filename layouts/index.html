@@ -3,7 +3,7 @@
 {{ partial "jumbotron.html" . }}
 
 <div class="container">
-  <div id="homepage-news" class="text-center">{{ with .Site.GetPage "page" "homepage/_news" }}{{ .Content | markdownify }}{{ end }}</div>
+  <div id="homepage-news" class="text-left">{{ with .Site.GetPage "page" "homepage/_news" }}{{ .Content | markdownify }}{{ end }}</div>
 </div>
 
 <div class="container-fluid no-gutter">
