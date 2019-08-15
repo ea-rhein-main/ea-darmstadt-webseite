@@ -5,7 +5,7 @@
 18.07.19 18:30:
 Treffen der Untergruppe Lesswrong Darmstadt.
 
- * TU Darmstadt S1|15 Raum 41
+ * TU Darmstadt S1|15 Raum 128
  * Thema: [Rationalitätstraining](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/ESnzpoCJrAfwAzpMB)
  * Vorbereitung: [Hammertime Day 1](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW)
 
