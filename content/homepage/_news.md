@@ -7,7 +7,7 @@ Treffen der Untergruppe LessWrong Darmstadt.
  * Thema: [Hammertime Rationalitätstraining - Day 6](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/uhqax7dL8edMpqJWp)
  * Vorbereitung: [Hammertime Day 1](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW)
 
-  29.08.19 18:30:
+  05.09.19 18:30:
 Treffen der Untergruppe LessWrong Darmstadt.
 
  * Ort: Cafe Agora [Agora](https://www.agora-eg.de/)
