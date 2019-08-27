@@ -8,7 +8,7 @@ Treffen der Untergruppe LessWrong Darmstadt.
  * Vorbereitung: [Hammertime Day 1](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW)
 
   05.09.19 18:30:
-Treffen der Untergruppe LessWrong Darmstadt.
+Gruppentreffen
 
  * Ort: Cafe Agora [Agora](https://www.agora-eg.de/)
  * Thema: [ALLFED](https://allfed.info/)(Alliance to feed the world in disaster)
