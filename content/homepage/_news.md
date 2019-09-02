@@ -13,3 +13,12 @@ Gruppentreffen
  * Ort: Cafe Agora [Agora](https://www.agora-eg.de/)
  * Thema: [ALLFED](https://allfed.info/)(Alliance to feed the world in disaster)
  * Vorbereitung: nicht nötig.
+
+## Workshops
+
+ 26.10.2019: EA Workshop Darmstadt
+ 
+ * Wie können wir Gutes tun - und dabei möglichst viel erreichen?
+ * 10 bis 16 Uhr (mit Mittagspause)
+ * TU Darmstadt, Raum wird noch angekündigt
+ * Formlose Anmeldung an [workshop@ea-darmstadt.de](mailto:workshop@ea-darmstadt.de)
