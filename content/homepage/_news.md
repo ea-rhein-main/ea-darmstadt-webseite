@@ -4,7 +4,7 @@
 Gruppentreffen
 
  * Ort: Cafe Agora [Agora](https://www.agora-eg.de/)
- * Thema: [ALLFED](https://allfed.info/)(Alliance to feed the world in disaster)
+ * Thema: „Living in Reality“
  * Vorbereitung: nicht nötig.
 
  12.09.19 18:30:
