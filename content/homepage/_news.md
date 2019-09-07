@@ -1,12 +1,5 @@
 ## Nächste Termine
 
-  05.09.19 18:30:
-Gruppentreffen
-
- * Ort: Cafe Agora [Agora](https://www.agora-eg.de/)
- * Thema: „Living in Reality“
- * Vorbereitung: nicht nötig.
-
  12.09.19 18:30:
 Treffen der Untergruppe LessWrong Darmstadt.
 
@@ -14,7 +7,14 @@ Treffen der Untergruppe LessWrong Darmstadt.
  * Thema: [Hammertime Rationalitätstraining - Day 8](https://www.lesswrong.com/posts/o8EWXypYGwJ6JYpBT/hammertime-day-8-sunk-cost-faith)
  * Vorbereitung: [Hammertime Day 1](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW)
 
-## Workshops
+ 19.09.19 18:30:
+Gruppentreffen
+
+* TU Darmstadt [S1|15](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 128
+* Thema: „Forecasting“
+* Vorbereitung: nicht nötig.
+
+## Workshop
 
  26.10.2019: EA Workshop Darmstadt
 
