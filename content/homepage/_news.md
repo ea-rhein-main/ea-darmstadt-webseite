@@ -5,14 +5,12 @@
 
  * TU Darmstadt [S1|03](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 10
  * Thema: [Hammertime Rationalitätstraining - Day 8](https://www.lesswrong.com/posts/o8EWXypYGwJ6JYpBT/hammertime-day-8-sunk-cost-faith)
- {% * Vorbereitung: [Hammertime Day 1](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW) %}
 
  19.09.19 18:30:
  Gruppentreffen
 
  * TU Darmstadt [S1|15](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 128
  * Thema: „Forecasting“
- * Vorbereitung: nicht nötig.
 
 ### Workshop
 
@@ -26,7 +24,5 @@
 ### Weitere Termine
 
  14.10.19: Stand bei der Erstsemesterbegrüßung
-
- {% ??.11.19: Stand beim Tag der Hochschulgruppen %}
 
  28.-30.01.2020: Stand bei der hobit (Hochschul- und Berufsinformationstage)
