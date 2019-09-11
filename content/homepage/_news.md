@@ -27,4 +27,6 @@
 
  14.10.19: Stand bei der Erstsemesterbegrüßung
 
+ {% ??.11.19: Stand beim Tag der Hochschulgruppen %}
+
  28.-30.01.2020: Stand bei der hobit (Hochschul- und Berufsinformationstage)
