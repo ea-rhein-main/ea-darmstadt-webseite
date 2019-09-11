@@ -23,7 +23,7 @@
  * TU Darmstadt, Raum wird noch angekündigt
  * Formlose Anmeldung an [workshop@ea-darmstadt.de](mailto:workshop@ea-darmstadt.de)
 
-### weitere Termine
+### Weitere Termine
 
  14.10.19: Stand bei der Erstsemesterbegrüßung
 
