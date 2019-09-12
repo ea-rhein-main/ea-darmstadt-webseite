@@ -9,7 +9,7 @@
  * Thema: „Forecasting“
 
 
- 12.09.19 18:30:
+ 26.09.19 18:30:
  Treffen der Untergruppe LessWrong Darmstadt.
 
  * TU Darmstadt [S1|03](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 10
