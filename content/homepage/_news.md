@@ -6,7 +6,7 @@
  Gruppentreffen
 
  * TU Darmstadt [S1|15](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 128
- * Thema: „Forecasting“
+ * Thema: „Calibration and Prediction“
 
 
  26.09.19 18:30:
