@@ -5,7 +5,7 @@
  19.09.19 18:30:
  Gruppentreffen
 
- * privat, bei Interesse bitte anrufen unter 069 2475432 47
+ * Ort: Privatwohnung, bei Interesse bitte anrufen unter 069 2475432 47
  * Thema: „Calibration and Prediction“
  * Bitte Laptop mitbringen
 
