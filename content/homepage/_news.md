@@ -5,8 +5,9 @@
  19.09.19 18:30:
  Gruppentreffen
 
- * TU Darmstadt [S1|15](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 128
+ * privat, bei Interesse bitte anrufen unter 069 2475432 47
  * Thema: „Calibration and Prediction“
+ * Bitte Laptop mitbringen
 
 
  26.09.19 18:30:
