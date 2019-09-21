@@ -1,6 +1,5 @@
 ## Nächste Treffen
 
- Das Treffen der Untergruppe LessWrong Darmstadt fällt heute aus!
 
  19.09.19 18:30:
  Gruppentreffen
