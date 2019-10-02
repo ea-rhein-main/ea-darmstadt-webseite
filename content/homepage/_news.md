@@ -1,19 +1,7 @@
 ## Nächste Treffen
 
-
- 19.09.19 18:30:
- Gruppentreffen
-
- * Ort: Privatwohnung, bei Interesse bitte anrufen unter 069 2475432 47
- * Thema: „Calibration and Prediction“
- * Bitte Laptop mitbringen
-
-
- 26.09.19 18:30:
+ 10.10.19 18:30:
  Treffen der Untergruppe LessWrong Darmstadt.
-
- * TU Darmstadt [S1|03](https://www.tu-darmstadt.de/universitaet/campus/stadtmitte_3/index.de.jsp) Raum 10
- * Thema: [Hammertime Rationalitätstraining - Day 8](https://www.lesswrong.com/posts/o8EWXypYGwJ6JYpBT/hammertime-day-8-sunk-cost-faith)
 
 ### Workshop
 
