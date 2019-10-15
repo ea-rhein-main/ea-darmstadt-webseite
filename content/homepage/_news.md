@@ -1,7 +1,10 @@
 ## Nächste Treffen
 
- 10.10.19 18:30:
+ 24.10.19 18:30:
  Treffen der Untergruppe LessWrong Darmstadt.
+
+ 31.10.19 18:30:
+ Gruppentreffen
 
 ### Workshop
 
