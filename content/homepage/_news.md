@@ -1,11 +1,3 @@
-## Nächste Treffen
-
- 24.10.19 18:30:
- Treffen der Untergruppe LessWrong Darmstadt.
-
- 31.10.19 18:30:
- Gruppentreffen
-
 ### Workshop
 
  26.10.2019: EA Workshop Darmstadt
@@ -14,6 +6,14 @@
  * 10 bis 16 Uhr (mit Mittagspause)
  * TU Darmstadt, Raum wird noch angekündigt
  * Formlose Anmeldung an [workshop@ea-darmstadt.de](mailto:workshop@ea-darmstadt.de)
+
+### Nächste Treffen
+
+  24.10.19 18:30:
+  Treffen der Untergruppe LessWrong Darmstadt.
+
+  31.10.19 18:30:
+  Gruppentreffen
 
 ### Weitere Termine
 
