@@ -4,7 +4,7 @@
 
  * Wie können wir Gutes tun - und dabei möglichst viel erreichen?
  * 10 bis 16 Uhr (mit Mittagspause)
- * TU Darmstadt, Raum wird noch angekündigt
+ * TU Darmstadt, S1|02 Raum 244
  * Formlose Anmeldung an [workshop@ea-darmstadt.de](mailto:workshop@ea-darmstadt.de)
 
 ### Nächste Treffen
