@@ -9,14 +9,12 @@
 
 ### Nächste Treffen
 
-  24.10.19 18:30:
+  31.10.19 18:30, TU Darmstadt S1|15 128:
+  Gruppentreffen.
+
+  7.11.19 18:30:
   Treffen der Untergruppe LessWrong Darmstadt.
 
-  31.10.19 18:30:
-  Gruppentreffen
-
 ### Weitere Termine
-
- 14.10.19: Stand bei der Erstsemesterbegrüßung
 
  28.-30.01.2020: Stand bei der hobit (Hochschul- und Berufsinformationstage)
