@@ -1,7 +1,7 @@
 ### Nächste Treffen
 
-  * 12.12.19 18:30, TU Darmstadt S1|15 128: Gruppentreffen, Thema: Künstliche Intelligenz - Buchvorstellung von [Human Compatible](https://www.goodreads.com/en/book/show/44767248-human-compatible) 
-  * 19.12.19 18:30, TU Darmstadt S1|15 128: Treffen der Untergruppe LessWrong Darmstadt
+  * 19.12.2019 18:30, TU Darmstadt S1|15 128: Treffen der Untergruppe LessWrong Darmstadt
+  * 09.01.2020 18:30, Raum steht noch nicht fest: Gruppentreffen, Thema: systemisches Versagen - Buchvorstellung von [Inadequate Equilibria ](https://equilibriabook.com/) 
 
 ### Weitere Termine
 
