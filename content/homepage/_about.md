@@ -13,8 +13,9 @@ Wir wollen z.B.:
 
 Außerdem wollen wir noch Spaß dabei haben :D
 
-## Treffensstruktur:
+## Worüber tauschen wir uns aus?
 
- * Gruppentreffen: jeden zweiten Donnerstag um 18:30. Dabei treffen wir uns abwechselnd in einem Raum der Universität und im privaten Rahmen.
- * Kleingruppen: treffen sich individuell. Bei Interesse einfach anfragen. Beispiele für Kleingruppen: 
-     AI-Lesekreis, EA-Kurse, AI-Kurs, Leseabend, accountability partner, Webseite, Rationalität/Lesswrong...
+Bei unserern Gruppentreffen haben wir meist ein inhaltliches Thema, über das wir reden.
+
+Beispiele für Themen vergangener Treffen sind:
+Rationalität 101, Klimawandel als existenzielles Risiko, [Lying (Sam Harris)](https://samharris.org/books/lying/), [How Not to Die (Michael Greger)](https://nutritionfacts.org/book/), produktive Meinungsverschiedenheiten, Nanotechnologie, Spenden, Konkretisierung persönlicher Ziele, [Getting Things Done](https://de.wikipedia.org/wiki/Getting_Things_Done), Berichte von EA-Events, Gedankenexperimente, [Allfed](https://allfed.info/), Forcasting, Speed Reading, Moralphilosophie, kritische Männlichkeit, COVID-19, [Open Borders (Bryan Caplan)](https://www.smbc-comics.com/openborders/), Glück, Imposter-Syndrom, Lightning-Talks, [Guesstimate](https://www.getguesstimate.com/), [How to Win Friends and Influence People (Dale Carnegie)](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People), [Outliers (Malcom Gladwell](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/), [Inadequate Equilibria (Eliezer Yudkowsky)](https://equilibriabook.com/), ...
