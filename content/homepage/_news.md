@@ -1,4 +1,4 @@
 ### Nächste Treffen
 
-  * 22.10.2020 18:50, Online Meetup der Untergruppe LessWrong Darmstadt, Thema Hamming Circle, Link: https://meet.ealokal.de/lesswrongDarmstadt
-  * 29.10.2020 18:50, Online Meetup: Atomkraft
+  * 12.11.2020 18:30: Online Treffen, Thema [AI Safety](https://en.wikipedia.org/wiki/AI_control_problem). [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
+  * 19.11.2020 18:50: Online Treffen der Untergruppe LessWrong Darmstadt, Thema [Thinking, Fast & Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), [Link zum Treffen](https://meet.ealokal.de/lesswrongDarmstadt)
