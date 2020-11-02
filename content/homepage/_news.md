@@ -1,4 +1,5 @@
-__Falls Du gerade bei der Erstibegrüßung warst und noch mit uns quatschen willst__: https://meet.ealokal.de/EADarmstadt
+### Erstibegrüßung
+__Achtung! Falls Du gerade bei der Erstibegrüßung warst und noch mit uns quatschen willst__: https://meet.ealokal.de/EADarmstadt :)
 ### Nächste Treffen
 
   * 12.11.2020 18:30: Online Treffen, Thema [AI Safety](https://en.wikipedia.org/wiki/AI_control_problem). [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
