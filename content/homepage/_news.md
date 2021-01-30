@@ -1,5 +1,5 @@
 ### Nächste Treffen
 
-  * Donnerstag 21.1.2021 18:30: Online Treffen, Thema Buchvorstellung _[Why Trust Science](https://press.princeton.edu/books/hardcover/9780691179001/why-trust-science)_. [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
-  * Donnerstag 4.2.2021 18:30: Online Treffen, Thema steht noch nicht fest. [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
-<!--   * Donnerstag 17.12.2020 18:50: Online Treffen der Untergruppe LessWrong Darmstadt, Thema Predictive Processing, [Link zum Treffen](https://meet.ealokal.de/lesswrongDarmstadt) -->
+  * Donnerstag 4.2.2021 18:30: Online Treffen, Thema [Remittance](https://en.wikipedia.org/wiki/Remittance). [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
+  * Donnerstag 18.2.2021 18:30: Online Treffen, Thema steht noch nicht fest. [Link zum Treffen](https://meet.ealokal.de/EADarmstadt)
+  * Donnerstag 25.2.2020 18:50: Online Treffen der Untergruppe LessWrong Darmstadt, Thema [Bug Hunt](https://www.lesswrong.com/s/qRxTKm7DAftSuTGvj/p/rFjhz5Ks685xHbMXW), [Link zum Treffen](https://meet.ealokal.de/lesswrongDarmstadt) 
