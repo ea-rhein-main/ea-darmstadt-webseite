@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on EA Darmstadt</title>
+    <link>https://ea-darmstadt.de/homepage/</link>
+    <description>Recent content in Homepages on EA Darmstadt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://ea-darmstadt.de/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_about/</guid>
+      <description>Was ist eigentlich Effektiver Altruismus? EA beschäftigt sich mit der Frage, wie wir mit unseren begrenzten Ressourcen möglichst viel Gutes erreichen können.
+Was ist unser Ziel als Gruppe? Wir wollen z.B.:
+ mehr darüber lernen, wie man die Welt verbessert. eine Gemeinschaft, in der wir uns gegenseitig helfen, unsere Pläne besprechen und neue Ideen haben. Menschen unterstützen, die Lust haben, die Welt zu verbessern, z.B. indem wir ein EA-Bildungsangebot schaffen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_contribute/</guid>
+      <description> Hier haben wir ein paar weiterführende Links für euch zusammengestellt. Überlege mit Hilfe der Informationen von 80,000Hours wie du über deinen Berufsweg zur Lösung der wichtigsten Probleme beitragen kannst. Givewell stellt euch Informationen zur Verfügung damit ihr mit euren Spenden möglichst viel Gutes bewirken könnt. Sag hallo und komm zu unseren Treffen.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_news/</guid>
+      <description> Nächste Treffen  Donnerstag 24.6.2021 18:30: Online Treffen, Thema Buchvorstellung _Reasons and Persons_ (die Kapitel zum Thema Identität). Link zum Treffen Donnerstag 8.7.2021 18:30: Online Treffen, Thema steht noch nicht fest. Link zum Treffen  </description>
+    </item>
+    
+  </channel>
+</rss>

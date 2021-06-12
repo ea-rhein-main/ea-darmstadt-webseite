@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EA Darmstadt</title>
+    <link>https://ea-darmstadt.de/</link>
+    <description>Recent content on EA Darmstadt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ea-darmstadt.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://ea-darmstadt.de/test/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/test/</guid>
+      <description>Test test1234</description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>https://ea-darmstadt.de/organizations/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:33 -0800</pubDate>
+      
+      <guid>https://ea-darmstadt.de/organizations/</guid>
+      <description>Organizations 
+AMF: The Against Malaria Foundation (AMF) is a non-profit that funds the distribution of long-lasting insecticidal nets (LLIN) to areas with high incidence of malaria, mostly in Africa. GiveWell has recommended AMF as a top charity several times. As of 2017, GiveWell estimated that it costs AMF about $4.22 to distribute one LLIN and $3,000 per equivalent under-5 year old life saved.
+Animal Charity Evaluators investigates the most effective ways of reducing non-human animal suffering.</description>
+    </item>
+    
+    <item>
+      <title>Effective Altruism</title>
+      <link>https://ea-darmstadt.de/effective-altruism/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:29 -0800</pubDate>
+      
+      <guid>https://ea-darmstadt.de/effective-altruism/</guid>
+      <description>Der Effektive Altruismus ist eine Philosophie, die Kopf und Herz verbindet. Wir nutzen wissenschaftliche Erkenntnisse und rationale Argumente, um herauszufinden, wie wir möglichst viel bewirken können. In den letzten Jahren hat sich die Idee des Effektiven Altruismus zu einer globalen Bewegung entwickelt. Auch in Deutschland, der Schweiz und Österreich engagieren sich zahlreiche Leute.
+Einführung in die Philosophie des Effektiven Altruismus Nach wie vor sterben jeden Tag über 16 000 Kinder an den Folgen der globalen Armut.</description>
+    </item>
+    
+    <item>
+      <title>Key Terms</title>
+      <link>https://ea-darmstadt.de/key-terms/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:20 -0800</pubDate>
+      
+      <guid>https://ea-darmstadt.de/key-terms/</guid>
+      <description>Key EA Terms 
+Core Ideas Effective altruism: Effective altruism (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
+Cost-effectiveness: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources.</description>
+    </item>
+    
+    <item>
+      <title>Reading Material</title>
+      <link>https://ea-darmstadt.de/reading-material/</link>
+      <pubDate>Thu, 28 Dec 2017 15:58:15 -0800</pubDate>
+      
+      <guid>https://ea-darmstadt.de/reading-material/</guid>
+      <description>Lesematerial 
+Es gibt viele Materialien (Artikel, Videos, Bücher) zum Thema Effektiver Altruismus, wir haben hier für Dich eine kleine Auswahl zusammengestellt:
+Ein guter Startpunkt sind die Einführungsartikel auf der Website der Stiftung für Effektiven Altruismus.
+Falls Du TED talks magst, haben wir gleich mehrere Empfehlungen: &amp;ldquo;Wie können wir Herz und Verstand verbinden?&amp;rdquo; von Jan Dirk Capelle (auf deutsch), The Why and How of Effective Altruism und The Life You Can Save von Peter Singer (beides auf englisch), oder Du schaust direkt in der Wikiliste mit TED talks zu EA nach Themen, die Dich interessieren.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://ea-darmstadt.de/faq/</link>
+      <pubDate>Wed, 27 Dec 2017 02:15:52 -0800</pubDate>
+      
+      <guid>https://ea-darmstadt.de/faq/</guid>
+      <description>Frequently Asked Questions 
+So what is effective altruism? The core idea:
+Effective altruism is using evidence and analysis to take actions that help others as much as possible.
+The world has a lot of horrible problems but we can’t work on them all at once. Our goal is to accomplish the most good for the world with our limited time, energy, and resources.
+There is a lot of agreement among people in the movement about what questions we should ask when figuring out what will help others the most.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/_footer-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/_footer-left/</guid>
+      <description> Mehr zu EA:  Einführung in den Effektiven Altruismus Video: Wie können wir Herz und Verstand verbinden? EA-Stiftung  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/_footer-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/_footer-right/</guid>
+      <description>Nützliche Links  effectivealtruism.org 80000 Hours GiveWell Centre for Effective Altruism Rethink Charity  Impressum</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/contact/</guid>
+      <description>Fragen? Schreib uns: info@ea-darmstadt.de
+Wenn du unsere Gruppe spannend findest, komm doch mal bei einem unserer Treffen vorbei.
+Wenn du dir noch unsicher bist, kannst du auch erstmal eine E-Mail an Magdalena (magdalena.wache@ea-darmstadt.de) schreiben. Sie oder jemand anderes von uns ist gerne bereit sich so mit dir zu treffen und dir unsere Arbeit zu erklären.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_about/</guid>
+      <description>Was ist eigentlich Effektiver Altruismus? EA beschäftigt sich mit der Frage, wie wir mit unseren begrenzten Ressourcen möglichst viel Gutes erreichen können.
+Was ist unser Ziel als Gruppe? Wir wollen z.B.:
+ mehr darüber lernen, wie man die Welt verbessert. eine Gemeinschaft, in der wir uns gegenseitig helfen, unsere Pläne besprechen und neue Ideen haben. Menschen unterstützen, die Lust haben, die Welt zu verbessern, z.B. indem wir ein EA-Bildungsangebot schaffen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_contribute/</guid>
+      <description> Hier haben wir ein paar weiterführende Links für euch zusammengestellt. Überlege mit Hilfe der Informationen von 80,000Hours wie du über deinen Berufsweg zur Lösung der wichtigsten Probleme beitragen kannst. Givewell stellt euch Informationen zur Verfügung damit ihr mit euren Spenden möglichst viel Gutes bewirken könnt. Sag hallo und komm zu unseren Treffen.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/homepage/_news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/homepage/_news/</guid>
+      <description> Nächste Treffen  Donnerstag 24.6.2021 18:30: Online Treffen, Thema Buchvorstellung _Reasons and Persons_ (die Kapitel zum Thema Identität). Link zum Treffen Donnerstag 8.7.2021 18:30: Online Treffen, Thema steht noch nicht fest. Link zum Treffen  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ea-darmstadt.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ea-darmstadt.de/impressum/</guid>
+      <description>Anschrift:
+Effektiver Altruism Darmstadt e.V.
+HSG EA Darmstadt c/o AStA TU Darmstadt
+Hochschulstraße 1
+64289 Darmstadt
+E-Mailadresse: web@ea-darmstadt.de
+Telefon für rechtliche Fragen bezüglich der Webseite: +49 69 17537471-8</description>
+    </item>
+    
+  </channel>
+</rss>
